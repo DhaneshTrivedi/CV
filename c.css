@@ -116,12 +116,14 @@ a {
     margin-left: 6px;
 }
 
+
 @media (max-width:900px) {
     .summary {
         margin: auto;
     }
 
 }
+
 
 .skill-img {
     height: 250px;
@@ -209,4 +211,9 @@ table {
 
 p {
     line-height: 2;
+}
+@media (max-width:900px) {
+    .p {
+        font-size: small;
+    }
 }
