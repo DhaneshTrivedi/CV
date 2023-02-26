@@ -212,6 +212,6 @@ p {
 }
 @media (max-width:900px) {
     .p {
-        font-size: small;
+        font-size: 20px;
     }
 }
