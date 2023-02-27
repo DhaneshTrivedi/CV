@@ -204,6 +204,6 @@ p {
 }
 @media (max-width:900px) {
     p {
-        font-size: 20px;
+        font-size: 5px;
     }
 }
