@@ -109,7 +109,9 @@ a {
 
 @media (max-width:900px) {
     .summary {
+         width: 300px;
         margin: auto;
+        padding:auto;
     }
 
 }
@@ -204,6 +206,6 @@ p {
 }
 @media (max-width:900px) {
     p {
-        font-size: 5px;
+        font-size: 10px;
     }
 }
