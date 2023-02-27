@@ -109,7 +109,7 @@ a {
 
 @media (max-width:900px) {
     .summary {
-         width: 300px;
+        width: 300px;
         margin: auto;
         padding:auto;
     }
@@ -138,6 +138,13 @@ a {
     line-height: 2;
     width: 500px;
 }
+@media (max-width:900px) {
+    .para-skill {
+        width: 300px;
+    }
+
+}
+
 .project-row{
     text-align: left;
 }
