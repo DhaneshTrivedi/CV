@@ -52,6 +52,11 @@ h3 {
         font-size: 30px;
     }
 }
+@media (max-width:900px) {
+    hr {
+        margin: 10px auto;
+    }
+}
 
 @media (max-width:900px) {
     .mountain {
@@ -117,6 +122,8 @@ a {
         width: 300px;
         margin: auto;
         padding: auto;
+        padding-top: 20px;
+        font-size: 9px;
     }
 
 }
@@ -133,6 +140,7 @@ a {
     .skill-img {
         height: 170px;
         width: 150px;
+        margin-bottom: 30px;
     }
 
 }
@@ -162,16 +170,17 @@ a {
     width: 250px;
     text-align: center;
     margin-right: 10px;
-    margin-top: 60px;
 }
 
 @media (max-width:900px) {
     .project-img {
-        height: 200px;
+        height: 150px;
         width: 150px;
+        margin-bottom: 30px;
     }
 
 }
+
 
 .skill-p {
     clear: left;
