@@ -157,6 +157,8 @@ a {
 @media (max-width:900px) {
     .para-skill {
         width: 300px;
+        margin: auto;
+        padding: auto;
     }
 
 }
@@ -164,6 +166,14 @@ a {
 .project-row {
     text-align: left;
     width: 700px;
+}
+@media (max-width:900px) {
+    .project-row{
+        width: 300px;
+        margin: auto;
+        padding: auto;
+    }
+
 }
 
 .project-img {
